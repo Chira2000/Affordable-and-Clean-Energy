@@ -1,36 +1,17 @@
-<html>
-    <head>
-</head>
-<body>
-
-
-
-
-
 <?php 
+ $Username=$_POST['uname'];
+ $Email=$_POST['mail'];
 
-
-$conn=mysqli_connect("localhost","root","12345","clean_energy");
-
-if($conn==false){
-
-    die("Connection Failed:".mysqli_connect_error());
-}
-
-$Username=$_REQUEST['uname'];
-$Email=$_REQUEST['mail'];
-
-$sql= "INSERT INTO register VALUES ('$Username','$Email')";
-if(mysqli_query($conn,$sql)){
-    echo "<h3>Data Added Successfully!</h3>"
-}
+ $conn = new mysqli('127.0.0.1','root','12345','energy');
+ if($conn->connect_error){
+     die('Connection Failed   :'.$conn->connect_error);
+ }
 else{
-    echo "ERROR".mysqli_error($conn);
+    $stmt = $conn->prepare("insert into register(Username, Email) values(?,?)");
+    $stmt->bind_param("ss",$Username, $Email);
+    $stmt->execute();
+    echo "Registration Successfull...!!";
+    $stmt->close();
+    $conn->close();
 }
-mysqli_close($conn);
-
-
-
 ?>
-</body>
-</html>
