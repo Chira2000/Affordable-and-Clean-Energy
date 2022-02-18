@@ -2,7 +2,7 @@
  $Username=$_POST['uname'];
  $Email=$_POST['mail'];
 
- $conn = new mysqli('127.0.0.1','root','12345','energy');
+ $conn = new mysqli('localhost','root','','energy');
  if($conn->connect_error){
      die('Connection Failed   :'.$conn->connect_error);
  }
