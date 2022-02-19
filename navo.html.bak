@@ -37,6 +37,107 @@ type="video/mp4">
 		<h4>Indoor Air Pollutants</h4>
 		<p>
 	A number of air pollutants have been recognized to exist indoors, including NOx, SO2, O3, CO, volatile and semi-volatile organic compounds (VOCs), PM, radon, and microorganism. Some of these pollutants (e.g., NOx, SO2, O3, PM) are common to both indoor and outdoor environments, and some of them may be originated from outdoors. These air pollutants can be inorganic, organic, biological or even radioactive. The effect of these air pollutants on humans depends on their toxicity, concentration and exposure time, and may vary from person to person. The most common effect is called sick building syndrome (SBS), in which people experience uncomfortable or acute health effects such as irritation of nose, eyes and throat, skin ailments, allergies, and so on. The cause may not be identified, but the syndrome may disappear after an affected person leaves the office or building. Indoor air quality can be improved and SBS can be reduced when the ventilation rate of the room is improved (Wargocki et al., 2000). The indoor air quality also affects the performance of workers and office staff. Wyon (2004) found that the performance of real office work would be significantly and substantially affected by changes in indoor environmental quality and that the work performance could be significantly enhanced by removing common indoor sources of air pollution.</p>
+	<h4>Sources of Indoor Air Pollutants</h4>
+	<p>Table 1 shows the source of various indoor air pollutants, and their health impacts. According to the World Health Organization (WHO), around 3 billion people in the world still cook and heat their homes using dirty solid fuels (such as waste wood, charcoal, coal, dung, crop wastes) on open fireplaces, cooking stoves or kangs, which generates a large amount of air pollutants (such as SO2, NOx, CO, and PM). Even worse is that these air pollutants may accumulate in the indoor environment if the indoor air is not well ventilated, which seriously affects the health of the inhabitants (WHO, 2014). There are also many anthropogenic sources (such as wooden construction materials, oil based paints, fragrant decorations, and indoor plants) emitting VOCs at a variety of concentrations. These VOCs (such as formaldehyde) may be carcinogenic, while some of them (such as turpenes) may react with ozone to form secondary fine suspended indoor particles (Weschler and Shields, 1999). Wallace (1985) indicated that many indoor sources of toxic organics exist among thousands of consumer products and building materials. Radon, a colorless carcinogenic radioactive gas and the second most important cause of lung cancer in many countries (EPA, 2014a), causes problem in many houses built with stony construction materials or basements with poor ventilation. There are also biological sources including pets, dust mites and humans. The existence of these indoor air pollutants increases the risk of people with breathing problems, such as asthma sufferers, and with compromised or underdeveloped immune systems.</p>
+	  <table style="border: 1px solid black;">
+            <tr>
+                <td width="100" style="border: 1px solid black ;">
+                    PM
+                </td>
+                <td width="400" style="border: 1px solid black ;">
+                    Cooking stoves;fireplaces;smoking;outdoor air
+			
+                </td>
+                <td width="700" style="border: 1px solid black ;">
+                    Respiratory and cardivascular illness
+                </td>
+            </tr>
+            <tr style="border: 1px solid black;">
+                <td style="border: 1px solid black;">
+                    SO2
+                </td>
+                <td style="border: 1px solid black;">
+                     Cooking stoves;fireplaces;outdoor air
+                </td>
+                <td style="border: 1px solid black;">
+                    Impairment of respiratory function
+                </td>
+            </tr>
+            <tr style="border: 1px solid black;">
+                <td style="border: 1px solid black;">
+                    NO2
+                </td>
+                <td style="border: 1px solid black;">
+                    Cooking stoves;fireplaces;outdoor air
+                </td>
+                <td style="border: 1px solid black;">
+                    Irritate the lungs and lower resistance to respiratory infection
+                </td>
+				<tr style="border: 1px solid black;">
+                <td style="border: 1px solid black;">
+                    CO
+                </td>
+                <td style="border: 1px solid black;">
+                   Cooking stoves;fireplaces;water heater;outdoor air
+                </td>
+                <td style="border: 1px solid black;">
+                    highly toxic and fatal at a conc. 700ppm
+                </td>
+            </tr>
+			<tr style="border: 1px solid black;">
+                <td style="border: 1px solid black;">
+                    Ozone
+                </td>
+                <td style="border: 1px solid black;">
+                    Air cleaning device with high voltage; outdoor air  
+                </td>
+                <td style="border: 1px solid black;">
+                    Asthma and allergic triggers
+                </td>
+            </tr>
+			<tr style="border: 1px solid black;">
+                <td style="border: 1px solid black;">
+                   VOCs (such as formaldehyde, turpenes) 
+                </td>
+                <td style="border: 1px solid black;">
+                     Building materials including carpet, plywood (emit formaldehyde); Paint and solvents; Clothing (after dry cleaning) (emits tetrachloroethylene, or other dry ceaning fluids); air fresheners, incense, other scented items; certain plants (emit turpenes)
+					 
+                </td>
+                <td style="border: 1px solid black;">
+                   Some carcinogenic; can also trigger formation of photochemical oxidants, such as peraxyacyl nitrates (PAN) and aldehydes, which cause eye irritation
+                </td>
+				<tr style="border: 1px solid black;">
+                <td style="border: 1px solid black;">
+                    Radon
+                </td>
+                <td style="border: 1px solid black;">
+                   Exuded frorm earth and rocks such as granite and gneiss in certain locations with low ventilated air and trapped inside houses
+                </td>
+                <td style="border: 1px solid black;">
+                    Radioactive; leading cause of lung cancer in non-smokers
+                </td>
+            </tr>
+			<tr style="border: 1px solid black;">
+                <td style="border: 1px solid black;">
+                    Biological air polutants Igasses and airborne particulates)
+                </td>
+                <td style="border: 1px solid black;">
+                    Pets (dander), human (dust from minute skin flakes and decomposed hair), dust mites lenzymes and jum-sized fecal droppings), inhabitants imethane), wall and air-duct imold) 
+                </td>
+                <td style="border: 1px solid black;">
+                    people with breathing problems, uch as asthma sufferers, and with compromised or underdeveloped immune systems
+                </td>
+            </tr>
+        </table>
+
+	
+	
+	
+	
+	
+	
+	
+	
 	
 		<h3>Outdoor Environment</h3>
 			<p>Outdoor air pollutants mainly consist of NOx, SO2, O3, CO, HC, and particulate matters (PM) of different particle sizes. In urban areas, these pollutants are mainly emitted from on-road and off-road vehicles, but there are also contributions from power plants, industrial boilers, incinerators, petrochemical plants, aircrafts, ships and so on, depending on the locations and prevailing winds. Comparatively, the contribution from cross border sources is less significant in urban areas due to its increased distance from the pollution sources. However, urban air quality is highly affected by city design. Densely distributed and deep street canyons (buildings with large building height to road width ratios) can block and weaken the approaching wind, thus reducing its air dispersion capability (Cheng et al., 2009; Li et al., 2009, 2010). On the other hand, good urban design can disperse air pollutants and alleviate the problems of air pollutant accumulation (Li et al., 2005, 2009; Santamouris, 2013).</P>
