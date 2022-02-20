@@ -4,7 +4,7 @@ h1{
 	font-family:"arial";
 }
 .red{
-	color:green;
+	color:black;
 }
 .size{
 	font-size:300%;
@@ -15,8 +15,13 @@ h1{
 .first-section{
 	color:black;
 	
-	width:95%;
+	
 	background-image:url("file:///E:/web%20project/Affordable-and-Clean-Energy/fourth.webp");
 	width:100%;
 }
-     
+.second-section{
+    color:green;
+     background-image:url("wall.jpeg");
+	 width:100%;
+	 font-size:16px;
+}	 
