@@ -1,24 +1,16 @@
 
 #example1 {
-  border: 10px dotted black;
+  border: 10px solid black;
   padding: 100px;
-  background:Aqua;
+  background:PowderBlue;
+  border-radius:100px;
+  width:800px;
 }
+
 p{
 font-size:14px;
 font-family:arial;
 }
-
-
-
-
-
-
-
-
-
-
-
 
 
 h1{
@@ -29,6 +21,7 @@ h1{
 .size{
 	font-size:290%;
 	text-decoration:underline;
+	
 }
 .large{
 	font-size:200%;
@@ -37,7 +30,7 @@ h1{
 	color:black;
 	background-image:url("file:///E:/web%20project/Affordable-and-Clean-Energy/fourth.webp");
 	width:100%;
-	padding:10px;
+	padding:5px;
 }
 
 .second-section{
@@ -52,5 +45,5 @@ body{
 	color:blue;
 	background-image:url("clim.jpeg");
 	width:100%;
-	padding:10px;
+	padding:5px;
 }
