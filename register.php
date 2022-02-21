@@ -1,17 +1,15 @@
-<?php 
- $Username=$_POST['uname'];
- $Email=$_POST['mail'];
+<?php
+$server=["localhost"];
+$username=$_POST["username"];
+$email=$_POST["email"];
 
- $conn = new mysqli('localhost','root','','energy');
- if($conn->connect_error){
-     die('Connection Failed   :'.$conn->connect_error);
- }
+
+$con=mysqli_connect("localhost","root","","energy");
+$sql="INSERT INTO register(Username,Email) VALUES('$username','$email')";
+if($con){
+   mysqli_query($con,$sql);
+}
 else{
-    $stmt = $conn->prepare("insert into register(Username, Email) values(?,?)");
-    $stmt->bind_param("ss",$Username, $Email);
-    $stmt->execute();
-    echo "Registration Successfull...!!";
-    $stmt->close();
-    $conn->close();
+    echo "Registeration Fail.....!!";
 }
 ?>
