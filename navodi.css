@@ -65,4 +65,21 @@ h3{
 	font-size:3opx;
 	font-family:sans-serif;
 }
+video{
+	display:block;
+	margin:auto;
+}
 	
+.footer4 .footer4-bottom{
+	background:grey;
+	height: 50px;
+	text-align: center;
+	position: absolute;
+	color: black;
+	width: 100%;
+	font-weight: bold;
+	
+	padding-top: 10px;
+	font-family:'Lucida Sans';
+
+} 
