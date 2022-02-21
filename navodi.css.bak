@@ -1,25 +1,4 @@
 
-#example1 {
-  border: 10px dotted black;
-  padding: 100px;
-  background:Aqua;
-}
-p{
-font-size:14px;
-font-family:arial;
-}
-
-
-
-
-
-
-
-
-
-
-
-
 
 h1{
 	font-family:"arial");
