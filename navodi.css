@@ -1,27 +1,40 @@
 
 
 h1{
-	font-family:"arial";
+	font-family:"arial");
 }
-.red{
-	color:black;
-}
+
+
 .size{
-	font-size:300%;
+	font-size:290%;
+	text-decoration:underline;
 }
 .large{
 	font-size:200%;
 }
 .first-section{
 	color:black;
-	
-	
 	background-image:url("file:///E:/web%20project/Affordable-and-Clean-Energy/fourth.webp");
 	width:100%;
+	padding:10px;
 }
+
 .second-section{
-    color:green;
-     background-image:url("wall.jpeg");
+    color:black;
+     background-image:url("clim.jpeg");
 	 width:100%;
 	 font-size:16px;
-}	 
+	 padding:10px;
+}
+	 
+.third-section{
+	color:blue;
+	background-image:url("clim.jpeg");
+	width:100%;
+	padding:10px;
+}
+.fourth-section{
+	background-image:url("clim.jpeg");
+	width:100%;
+	padding:10px;
+}
