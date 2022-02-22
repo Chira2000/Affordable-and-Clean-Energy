@@ -1,0 +1,50 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+#box {
+  background-color: #90ee90;
+  height: 8vh;
+  padding-top: 16px;
+}
+#main-box {
+  background-image: url("PIC NEW.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+h1 {
+  text-align: center;
+  font-family: "Cabin", sans-serif;
+  text-transform: uppercase;
+}
+#hr-one {
+  margin-bottom: 30px;
+  height: 4px;
+}
+
+.box-one {
+  margin: 10px 20px;
+  text-align: center;
+  font-family: "Comfortaa", cursive;
+}
+h2 {
+  margin: 20px 15px;
+  font-family: "Kufam", sans-serif;
+}
+
+#image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+}
+
+.box-two {
+  margin: 20px 15px;
+  font-family: "Kufam", sans-serif;
+}
+ul {
+  margin-left: 35px;
+  margin-top: 3px;
+}
