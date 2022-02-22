@@ -1,6 +1,12 @@
 <!DOCTYPE html>
 <html>
 <head>
+	<script>
+		function Confirmregister(){
+			username=document.login.username.value;
+
+		}
+	</script>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<title>Clean and Affordable Energy</title>
@@ -57,7 +63,7 @@
 		<form  action="http://localhost/chirath/register.php" method="POST" name="login">
 			<input type="text" name="username" placeholder="Enter Your Username"><br>
 			<input type="email" name="email" placeholder="Enter Your Email Address"><br>
-			<button class="btn">Register</button>
+			<button class="btn" onclick="Confirmregister()";>Register</button>
 
 
 

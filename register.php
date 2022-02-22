@@ -12,4 +12,7 @@ if($con){
 else{
     echo "Registeration Fail.....!!";
 }
+include 'include/2.html';
+  
+
 ?>
